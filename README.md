@@ -1,7 +1,7 @@
 Financial Time Series Analysis using STFT and CNN
 
 Student Details
-Name: Niranjana
+Name: Niranjana k 
 Roll Number: TCR24CS053
 Course: B.Tech Computer Science and Engineering
 
